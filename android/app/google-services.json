@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "555596740611",
+    "project_id": "sidm-project",
+    "storage_bucket": "sidm-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555596740611:android:e1fbaada4ad846c7f4f636",
+        "android_client_info": {
+          "package_name": "com.company.name"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAq6GSjj28LTPivZl5PFj0UI-pOppL72M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555596740611:android:3d6894f1eec476fcf4f636",
+        "android_client_info": {
+          "package_name": "com.example.projecto_sidm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAq6GSjj28LTPivZl5PFj0UI-pOppL72M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555596740611:android:c7ae80d4d9193aecf4f636",
+        "android_client_info": {
+          "package_name": "com.example.sidm_flutter_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAq6GSjj28LTPivZl5PFj0UI-pOppL72M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555596740611:android:cb7ba73277cb96cbf4f636",
+        "android_client_info": {
+          "package_name": "com.example.sidm_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAq6GSjj28LTPivZl5PFj0UI-pOppL72M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555596740611:android:87cc85890d161b80f4f636",
+        "android_client_info": {
+          "package_name": "com.example.sidmproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAq6GSjj28LTPivZl5PFj0UI-pOppL72M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
